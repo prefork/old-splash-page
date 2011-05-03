@@ -1,0 +1,81 @@
+@font-face  {
+	font-family: 'CabinBold';
+	src: url('cabin-bold-grape.eot');
+	src: local('☺'), url('cabin-bold-grape.woff') format('woff'), url('cabin-bold-grape.ttf') format('truetype'), url('cabin-bold-grape.svg#webfontZWIqaQ9u') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+body  {
+	width: 800px;
+	margin-left:auto;
+	margin-right:auto;
+}
+header  {
+	font-family: 'CabinBold', Arial, sans-serif;
+	font-size: 4.5em;
+}
+
+
+p  {
+	font-family: 'CabinBold', Arial, sans-serif;
+	font-size: 3.5em;
+}
+footer  {
+	font-family: 'CabinBold', Arial, sans-serif;
+	font-size: 10px;
+	font-weight: 800;
+	color: #000;
+	line-height: 15px;
+	text-transform: uppercase;
+	bottom: 0px;
+	padding: 10px 0px;
+	position: fixed;
+	background-color: white;
+	width: 100%;
+}
+footer a  {
+	color: #000;
+}
+#code {
+	color: #177F75;
+}
+#blog {
+	color: #7F3D17;
+}
+#coffee{
+	color: #105952;
+}
+#tweet {
+	color: #7F5E17;
+}
+#listen {
+	color: #616536;
+}
+#network {
+	color: #31B96E;
+}
+#connect {
+	color: #990033;
+}
+#learn {
+	color: #669900;
+}
+#talk {
+	color: #0033CC;
+}
+#consult {
+	color: #F2583E;
+}
+#tumble {
+	color: #2B3E42;
+}
+#race {
+	color: #84002E
+}
+#hi {
+	color: #31B96E;
+}
+#disclaimer {
+	display: none;
+}
